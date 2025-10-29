@@ -41,3 +41,16 @@ This project aims to create an **AI-assisted triage tool** to support clinicians
 ---
 
 ## 📂 Repository Structure
+Breast-Ultrasound-CV-Project/
+│── README.md
+│── requirements.txt
+│── MD_Tuozzo_Jose_ITAI1378.pptx
+│── MD_Tuozzo_Jose_ITAI1378.pdf
+│── notebooks/
+│ ├── 01_exploration.ipynb
+│ └── train_busi_model.ipynb ← main model notebook
+│── data/
+│ └── README.md (dataset instructions)
+│── docs/
+│ └── diagram.png
+│ └── proposal.pdf (placeholder)
